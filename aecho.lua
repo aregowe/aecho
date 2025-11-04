@@ -1,0 +1,1 @@
+' + (await fs.readFile(path.join(__dirname, 'aecho.lua'), 'utf8')) + '
